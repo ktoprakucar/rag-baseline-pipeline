@@ -1,0 +1,8 @@
+transformers==4.36.2
+langchain==0.1.0
+sentence-transformers==2.2.2
+faiss-cpu==1.7.4
+accelerate==0.26.1
+pytube==15.0.0
+torch # didn't provide a version because of mac/linux utilization
+scikit-learn==1.4.0 # only for cosine similarity test
