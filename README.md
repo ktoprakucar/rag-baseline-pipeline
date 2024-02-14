@@ -9,7 +9,7 @@ This project is generated as a baseline solution (using company data) for our Ge
 P.S. This solution has been implemented in Mac. So, there might be some inconsistencies on the other platforms since this code has not been tested on another environment. If you face it, please let me know! :)
 
 # How
-You can find all the details in the blog post!
+You can find all the details in the [blog post](https://medium.com/numberly-tech-blog/build-your-rag-pipeline-a-step-by-step-guide-using-open-source-models-to-generate-a-novelist-7f2ca52cfbf3)!
 
 Installation of the packages:
 
